@@ -5,7 +5,7 @@ Steps to run : <br/>
 1) Download/Clone this repository<br/>
 2) Inside the main folder, open a terminal and run => python final-integration.py<br/>
 <br/>
-Working : 
+Working: 
 <br/>
 <ul>
 <li>Open Eyes</li>
